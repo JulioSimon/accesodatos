@@ -1,2 +1,1 @@
 rootProject.name = 'AD'
-spring.jpa.properties.jakarta.persistence.sharedCache.mode = 'NONE'
